@@ -59,6 +59,7 @@ author:
   name   : "4&more"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Swiss amateur string quartet. Or quintet. Classical, folk and all kinds of fun music."
+  location : "Zurich"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
