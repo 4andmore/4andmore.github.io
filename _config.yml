@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:" Will appear in 
   Swiss string quartet. Or quintet. Classical, folk and all kinds of fun music.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -57,9 +57,9 @@ plugins:
 
 author:
   name   : "4&more"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Swiss amateur string quartet. Or quintet. Classical, folk and all kinds of fun music."
-  location : "Zurich"
+  avatar : "/assets/images/4andmore_bio.jpg"
+  bio    : "Streichquartett. Oder -quintett. Von und für Musikbegeisterte und vielseitig Interessierte. Klassisches, Folk, und sonstige tolle Musik."
+  location : "Zürich"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
