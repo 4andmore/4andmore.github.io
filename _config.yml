@@ -74,6 +74,8 @@ author:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
+logo: "/assets/images/4andmore_bio.png"
+
 footer:
   links:
     - label: "Twitter"
