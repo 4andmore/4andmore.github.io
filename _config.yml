@@ -33,8 +33,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-
-include: ["_pages"]
   
 
 # Exclude from processing.
@@ -64,9 +62,12 @@ author:
   bio    : "Streichquartett. Oder -quintett. Von und für Musikbegeisterte und vielseitig Interessierte. Klassisches, Folk, und sonstige tolle Musik."
   location : "Zürich"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://4andmore.github.io"
+    - label: "Aktuelles Projekt (DE)"
+      icon: "fas fa-solid fa-music"
+      url: "https://4andmore.github.io/aktuelles_projekt/"
+    - label: "Current project (EN)"
+      icon: "fas fa-solid fa-music"
+      url: "https://4andmore.github.io/current_project/"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
