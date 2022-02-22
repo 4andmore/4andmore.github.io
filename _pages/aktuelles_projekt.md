@@ -3,6 +3,8 @@ permalink: /aktuelles_projekt/
 title: "Aktuelles Projekt"
 ---
 
+{% include figure image_path="/assets/images/220222_Morschach.jpg" alt="Aussicht von Morschach" %}
+
 Ansichten der Schweiz
 =====================
 
