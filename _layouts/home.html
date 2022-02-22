@@ -4,8 +4,8 @@ layout: archive
 
 {{ content }}
 
-{% assign about = site.pages | where: 'name','front_page.md' %}
-{{}}
+{% assign frontpage = site.pages | where: 'name','front_page.md' %}
+{{frontpage}}
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
