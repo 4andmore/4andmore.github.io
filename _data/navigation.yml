@@ -1,5 +1,4 @@
 main:
-  
   - title: "Aktuelles Projekt (DE)"
     url: /aktuelles_projekt/
   - title: "Current Project (EN)"
@@ -8,3 +7,9 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
+
+quicknav:
+  - title: "Aktuelles Projekt (DE)"
+    url: /aktuelles_projekt/
+  - title: "Current Project (EN)"
+    url: /current_project/
