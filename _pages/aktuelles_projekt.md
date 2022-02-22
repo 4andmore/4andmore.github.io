@@ -18,7 +18,7 @@ Während einer Reise durch die ländliche Schweiz im Jahr 1809 liess sich der Sa
 
 ***No. 3.*** *Es ist Mittag; der Himmel ist heiter und die Hitze drückend. Bald erheben sich Wolken, es verfinstert sich die Luft, und ein schreckliches Ungewitter bricht aus. Es ghet vorüber, die Wolken zerstreuen sich und die Sonne erscheint in ihrer ganzen Pracht.*
 
-****No. 4.*** *Die Dorfbewohner versammeln sich auf dem Grasplatze. Spiel und Scherz verbreiten allmählig eine immer lärmender werdende Fröhlichkeit; endlich beginnt der Tanz; ihn unterbricht der Kuhreigen (ranz des vaches), den der Schäfer bläst, indem er seine hüpfende Heerde heimführt. Der Tanz begint von neuem, allein die Vesperglocke ertönt zu drei wiederholten mahlen, während dem diese frommen Dorfleute ihr Angelus beten. Auf dies Signal hören Tanz und Spiele auf, und Alle begeben sich mit einem Herzen voll angenehmer Erinnerungen und fröhlich nach Hause.*
+***No. 4.*** *Die Dorfbewohner versammeln sich auf dem Grasplatze. Spiel und Scherz verbreiten allmählig eine immer lärmender werdende Fröhlichkeit; endlich beginnt der Tanz; ihn unterbricht der Kuhreigen (ranz des vaches), den der Schäfer bläst, indem er seine hüpfende Heerde heimführt. Der Tanz begint von neuem, allein die Vesperglocke ertönt zu drei wiederholten mahlen, während dem diese frommen Dorfleute ihr Angelus beten. Auf dies Signal hören Tanz und Spiele auf, und Alle begeben sich mit einem Herzen voll angenehmer Erinnerungen und fröhlich nach Hause.*
 
 Montferrine der Falschzitate
 ----------------------------
