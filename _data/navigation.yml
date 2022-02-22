@@ -1,9 +1,10 @@
 main:
+  
+  - title: "Aktuelles Projekt (DE)"
+    url: /aktuelles_projekt/
+  - title: "Current Project (EN)"
+    url: /current_project/
+  - title: "Über uns | About us"
+    url: /about/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
