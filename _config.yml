@@ -16,7 +16,7 @@
 title: 4&more
 email:
 description: >- # this means to ignore newlines until "baseurl:" Will appear in head data (for google search results) and in the feed.xml site description
-  Swiss string quartet. Or quintet. Classical, folk and all kinds of fun music.
+  Swiss string quartet. Classical, folk and all kinds of fun music.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "4&more"
   avatar : "/assets/images/4andmore_bio.png"
-  bio    : "Streichquartett. Oder -quintett. Von und für Musikbegeisterte und vielseitig Interessierte. Klassisches, Folk, und sonstige tolle Musik."
+  bio    : "Streichquartett variabler Grösse von und für Musikbegeisterte und vielseitig Interessierte. Klassisches, Folk, und sonstige tolle Musik."
   location : "Zürich"
   links:
     - label: "Aktuelles Projekt (DE)"
