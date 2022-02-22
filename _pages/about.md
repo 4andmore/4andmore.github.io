@@ -1,10 +1,7 @@
 ---
 permalink: /about/
-title: "Über uns | About us"
+title: "Technische Daten | Technical data"
 ---
-
-Technische Daten | Technical data
-=================================
 
 | Parameter | Nominalwert | Toleranz |
 |:---       | :----: | :---: |
