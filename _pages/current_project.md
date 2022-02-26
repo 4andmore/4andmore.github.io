@@ -7,6 +7,7 @@ title: "Current project"
 
 Views of Switzerland
 =====================
+Our current project is centered on musical portrayals of Switzerland.
 
 Une fête de Village en Suisse
 -----------------------------
