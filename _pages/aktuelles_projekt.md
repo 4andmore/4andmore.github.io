@@ -7,8 +7,9 @@ title: "Aktuelles Projekt"
 
 Ansichten der Schweiz
 =====================
+Unser aktuelles Projekt beschäftigt sich mit musikalischen Darstellungen der Schweiz.
 
-Une fête de Village en Suisse
+Une fête de village en Suisse
 -----------------------------
 Während einer Reise durch die ländliche Schweiz im Jahr 1809 liess sich der Salzburger Komponist Sigismund Ritter von Neukomm zu einem *Quintetto dramatique* in 4 Sätzen inspirieren.
 
