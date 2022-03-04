@@ -7,7 +7,7 @@ tags:
   - projects
 ---
 
-{% include figure image_path="/assets/images/Ansichten der Schweiz.png" alt="View from Morschach" %}
+{% include figure image_path="/assets/images/Ansichten der Schweiz.png" alt="Ansichten der Schweiz" %}
 
 Unser Projekt im Frühjahr 2022 dreht sich um musikalische Ansichten der Schweiz. Das aktuelle Programm [findest du hier][aktuelles_projekt].
 
