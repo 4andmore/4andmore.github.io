@@ -61,13 +61,13 @@ author:
   avatar : "/assets/images/4andmore_bio.png"
   bio    : "Streichquartett variabler Grösse von und für Musikbegeisterte und vielseitig Interessierte. Klassisches, Folk, und sonstige tolle Musik."
   location : "Zürich"
-  links:
-    - label: "Aktuelles Projekt (DE)"
-      icon: "fas fa-solid fa-music"
-      url: "https://4andmore.github.io/aktuelles_projekt/"
-    - label: "Current project (EN)"
-      icon: "fas fa-solid fa-music"
-      url: "https://4andmore.github.io/current_project/"
+#  links:
+#    - label: "Aktuelles Projekt (DE)"
+#      icon: "fas fa-solid fa-music"
+#      url: "https://4andmore.github.io/aktuelles_projekt/"
+#    - label: "Current project (EN)"
+#      icon: "fas fa-solid fa-music"
+#      url: "https://4andmore.github.io/current_project/"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
@@ -83,15 +83,12 @@ masthead_title: "" #No title, the logo serves as masthead
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Aktuelles Projekt (DE)"
+      icon: "fas fa-solid fa-music"
+      url: "https://4andmore.github.io/aktuelles_projekt/"
+    - label: "Current project (EN)"
+      icon: "fas fa-solid fa-music"
+      url: "https://4andmore.github.io/current_project/"
 
 defaults:
   # _posts
