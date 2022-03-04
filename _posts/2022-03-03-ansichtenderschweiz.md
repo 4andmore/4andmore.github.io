@@ -1,6 +1,7 @@
 ---
 title: "Ansichten der Schweiz | Views of Switzerland"
 date: 2022-03-03T13:33:21
+published: true
 categories:
   - blog
 tags:
