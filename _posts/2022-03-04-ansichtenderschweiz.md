@@ -1,13 +1,11 @@
 ---
 title: "Ansichten der Schweiz | Views of Switzerland"
-date: 2022-03-04T20:01:00-04:00
+date: 2022-03-03T03:33:22-04:00
 categories:
   - blog
 tags:
   - projects
 ---
-
-{% include figure image_path="/assets/images/Ansichten der Schweiz.png" alt="Ansichten der Schweiz" %}
 
 Unser Projekt im Frühjahr 2022 dreht sich um musikalische Ansichten der Schweiz. Das aktuelle Programm [findest du hier][aktuelles_projekt].
 
