@@ -80,6 +80,7 @@ author:
 
 logo: "/assets/images/4andmore_bio.png"
 masthead_title: "" #No title, the logo serves as masthead
+teaser: "/assets/images/4andmore_bio.png" # Site default teaser image
 
 footer:
   links:
