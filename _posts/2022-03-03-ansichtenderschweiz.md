@@ -8,6 +8,8 @@ tags:
   - projects
 ---
 
+{% include figure image_path="/assets/images/Ansichten der Schweiz.png" alt="Ansichten der Schweiz" %}
+
 Unser Projekt im Frühjahr 2022 dreht sich um musikalische Ansichten der Schweiz. Das aktuelle Programm [findest du hier][aktuelles_projekt].
 
 Our project in Spring 2022 is centered on musical portrayals of Switzerland. You can find more [details here][current_project].
